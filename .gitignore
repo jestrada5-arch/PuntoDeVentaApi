@@ -1,0 +1,9 @@
+bin/
+obj/
+.vs/
+*.user
+*.suo
+publish/
+publish.zip
+appsettings.Development.json
+secrets.json
